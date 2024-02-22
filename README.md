@@ -1,4 +1,4 @@
-# Cloud Run Template Microservice
+## Cloud Run Template Microservice
 
 A template repository for a Cloud Run microservice, written in Python
 
